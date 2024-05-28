@@ -17,8 +17,8 @@
 
 
 # Github Stats:
-![norskviking-stats](https://github-readme-stats.vercel.app/api?username={NorskViking}&theme=blue-green)
-![norskviking-top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username={NorskViking}&theme=blue-green)
+![norskviking-stats](https://github-readme-stats.vercel.app/api?username={norskviking}&theme=blue-green)
+![norskviking-top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username={norskviking}&theme=blue-green)
 <!--
 **NorskViking/NorskViking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
