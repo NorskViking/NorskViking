@@ -1,8 +1,8 @@
 # 💫 About Me:
 **Jørgen Stockfleth Baumann**<br>
 
-- 🔭 I’m currently working on different frontend- and fullstack-projects using the JavaScript frameworks and the PERN-stack.<br>
-- 🌱 I’m currently learning JavaScript, TailwindCSS and Node.js <br>
+- 🔭 I’m currently working on different frontend- and fullstack-projects.<br>
+- 🌱 I’m currently working with JavaScript, TypeScript and Node.js <br>
 
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgen-s-baumann/)
@@ -15,10 +15,6 @@
 # Some of my learning places:
 ![codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347) ![duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white) ![freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) ![udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 
-
-# Github Stats:
-![norskviking-stats](https://github-readme-stats.vercel.app/api?username=NorskViking&theme=blue-green)
-![norskviking-top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=NorskViking&theme=blue-green)
 <!--
 **NorskViking/NorskViking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
